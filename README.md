@@ -270,16 +270,6 @@ router.get('/article/delete',function (req,res,next) {
     res.send('内容删除');
 });
 
-/*get article page */
-router.get('/article',function (req,res,next) {
-    res.send('内容列表');
-});
-
-/*get article page */
-router.get('/article',function (req,res,next) {
-    res.send('内容列表');
-});
-
 /*get comment page */
 router.get('/comment',function (req,res,next) {
     res.send('评论列表');
