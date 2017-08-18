@@ -319,11 +319,12 @@ admin模块
 好了，我们的基本路由都实现了。但是在admin和api的模块里面路由业务过大，就违背了我们模块化的思想，那我们接下来再细分一下。(啰嗦一句,每个模块记得要导出)
 
 5.在routes文件夹里面新建三个文件夹,admin,api,main,咱们把这三个对应的模块再细分到这三个文件夹里面(我们只是为了演示路由的规划，并不是为了多分而去多分,咱们只是阐述路由划分对业务逻辑的重要性,请谅解我)
+
 先上图
 
-![我的图像]()
+![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/routes_1.jpg)
 
-![我的图像]()
+![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/routes_2.jpg)
 
 
 
