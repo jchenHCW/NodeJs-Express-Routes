@@ -3,75 +3,40 @@ var router=express.Router();
 
 
 /*get admin home page */
-router.get('/',function (req,res,next) {
-    res.send('admin首页');
-});
+router.get('/',require('./admin/admin'));
 
 /*get user page */
-router.get('/user',function (req,res,next) {
-    res.send('用户列表');
-});
+router.get('/user',require('./admin/user'));
 
 /*get category page */
-router.get('/category',function (req,res,next) {
-    res.send('分类列表');
-});
+router.get('/category',require('./admin/category/category'));
 
 /*get category add page */
-router.get('/category/add',function (req,res,next) {
-    res.send('分类添加');
-});
+router.get('/category/add',require('./admin/category/add'));
 
 /*get category edit page */
-router.get('/category/edit',function (req,res,next) {
-    res.send('分类修改');
-});
+router.get('/category/edit',require('./admin/category/edit'));
 
 /*get category delete page */
-router.get('/category/delete',function (req,res,next) {
-    res.send('分类删除');
-});
+router.get('/category/delete',require('./admin/category/delete'));
 
 /*get article page */
-router.get('/article',function (req,res,next) {
-    res.send('内容列表');
-});
+router.get('/article',require('./admin/article/article'));
 
 /*get article add page */
-router.get('/article/add',function (req,res,next) {
-    res.send('内容添加');
-});
+router.get('/article/add',require('./admin/article/add'));
 
 /*get article edit page */
-router.get('/article/edit',function (req,res,next) {
-    res.send('内容修改');
-});
+router.get('/article/edit',require('./admin/article/edit'));
 
 /*get article delete page */
-router.get('/article/delete',function (req,res,next) {
-    res.send('内容删除');
-});
-
-/*get article page */
-router.get('/article',function (req,res,next) {
-    res.send('内容列表');
-});
-
-/*get article page */
-router.get('/article',function (req,res,next) {
-    res.send('内容列表');
-});
+router.get('/article/delete',require('./admin/article/delete'));
 
 /*get comment page */
-router.get('/comment',function (req,res,next) {
-    res.send('评论列表');
-});
+router.get('/comment',require('./admin/comment/comment'));
 
 /*get comment delete page */
-router.get('/comment/delete',function (req,res,next) {
-    res.send('评论删除');
-});
-
+router.get('/comment/delete',require('./admin/comment/delete'));
 
 
 module.exports=router;

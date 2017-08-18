@@ -3,13 +3,9 @@ var router=express.Router();
 
 
 /*get home page */
-router.get('/',function (req,res,next) {
-    res.send('首页');
-});
+router.get('/',require('./main/main'));
 
 /*get view page */
-router.get('/view',function (req,res,next) {
-    res.send('内容页');
-});
+router.get('/view',require('./main/view'));
 
 module.exports=router;
