@@ -354,9 +354,7 @@ module.exports=function (req,res,next) {
 ```
 
 正如我们上面所说的，我们把路由规划和业务逻辑分开来放以便于我们在开发大型项目时思路更清晰。
-    
-       
-[^footnote]: 这是一个 *注脚* 的 **文本**。
 
-[^footnote2]: 这是另一个 *注脚* 的 **文本**。
 
+  
+[下一篇:mongoose连接mongodb数据库。](https://github.com/jchenHCW/mongodb)
