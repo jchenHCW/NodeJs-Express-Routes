@@ -152,6 +152,8 @@ app.use('/admin', require('./routes/admin'));
 
 ```
 2.接下来就是在routes文件夹创建对应的路由规则，如下图：
+
+
 ![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/routes.jpg)
 
 
