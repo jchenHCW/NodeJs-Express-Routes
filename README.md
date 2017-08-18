@@ -292,23 +292,28 @@ module.exports=router;
 
 ```
 
-4.接下来我们就跑一下这个程序，看看咱们的路由是不是按照图片上的运行(部分)。
+4.接下来我们就跑一下这个程序，看看咱们的路由是不是按照图片上的运行(部分)
+
 main模块
 
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/homepage.jpg)
+
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/viewpage.jpg)
 
 
 api模块
 
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/apihomepage.jpg)
+
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/registerpage.jpg)
 
 
 admin模块
 
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/adminpage.jpg)
+
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/adminuserpage.jpg)
+
 ![我的图片](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/articleaddpage.jpg)
 
 好了，我们的路由都实现了。但是在admin和api的模块里面路由业务过大，就违背了我们模块化的思想，那我们接下来再细分一下。
