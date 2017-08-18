@@ -30,7 +30,7 @@
 
 
 
-![我的图像](https://github.com/jchenHCW/lesson_01/blob/master/lesson_01/public/images/main.jpg)
+![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/main.jpg)
 
 
 我们先看app.js文件夹的内容
@@ -135,8 +135,8 @@ module.exports = app;
 ### 4. 一个实例
 下面我们借用妙味课堂里面的一个实例路由我们来仔细分析下。
 
-![我的图像](https://github.com/jchenHCW/lesson_01/blob/master/lesson_01/public/images/front.jpg)
-![我的图像](https://github.com/jchenHCW/lesson_01/blob/master/lesson_01/public/images/back.jpg)
+![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/front.jpg)
+![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/back.jpg)
 
 
 #### 示例
