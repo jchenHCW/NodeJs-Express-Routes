@@ -139,7 +139,22 @@ module.exports = app;
 ![我的图像](https://github.com/jchenHCW/NodeJs-Express-Routes/blob/master/public/images/back.jpg)
 
 
-#### 示例
+好，那我们根据以上这个项目的前台路由模板和后台路由模板来进行规划路由。
+
+
+咱们先把大的三个模块路由在app.js里面加载出来:
+```
+/*看这里,看这里,看这里,变更的位置在这里*/
+
+app.use('/', require('./routes/main'));     //咱们待会儿在routes文件夹来创建对应的路由.js执行文件。
+app.use('/api', require('./routes/api'));   
+app.use('/admin', require('./routes/admin'));   
+
+```
+接下来就是在routes文件夹创建对应的路由规则，如下图：
+![我的图像]()
+
+
 
 ```flow
 st=>start: Start:>https://www.zybuluo.com
