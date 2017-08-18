@@ -142,7 +142,7 @@ module.exports = app;
 好，那我们根据以上这个项目的前台路由模板和后台路由模板来进行规划路由。
 
 
-咱们先把大的三个模块路由在app.js里面加载出来:
+1.咱们先把大的三个模块路由在app.js里面加载出来:
 ```
 /*看这里,看这里,看这里,变更的位置在这里*/
 
@@ -151,9 +151,148 @@ app.use('/api', require('./routes/api'));
 app.use('/admin', require('./routes/admin'));   
 
 ```
-接下来就是在routes文件夹创建对应的路由规则，如下图：
+2.接下来就是在routes文件夹创建对应的路由规则，如下图：
 ![我的图像]()
 
+
+3.咱们看看routes文件件里面的3个路由文件里面的内容
+main.js(网站的首页在这里面定义)
+```
+var express=require('express');
+var router=express.Router();
+
+
+/*get home page */
+router.get('/',function (req,res,next) {
+    res.send('首页');
+});
+
+/*get view page */
+router.get('/view',function (req,res,next) {
+    res.send('内容页');
+});
+
+module.exports=router;
+
+```
+注:这里我只讲路由的规划，至于模块的引用和定义有时间再单独写吧。
+
+api.js
+```
+var express=require('express');
+var router=express.Router();
+
+
+/*get api home page */
+router.get('/',function (req,res,next) {
+    res.send('api首页');
+});
+
+/*get register page */
+router.get('/register',function (req,res,next) {
+    res.send('用户注册页');
+});
+
+/*get login page */
+router.get('/login',function (req,res,next) {
+    res.send('用户登录页');
+});
+
+/*get comment page */
+router.get('/comment',function (req,res,next) {
+    res.send('评论获取页面');
+});
+
+/*get comment post page */
+router.get('/comment/post',function (req,res,next) {
+    res.send('评论提交');
+});
+
+module.exports=router;
+
+```
+
+admin.js
+```
+var express=require('express');
+var router=express.Router();
+
+
+/*get admin home page */
+router.get('/',function (req,res,next) {
+    res.send('admin首页');
+});
+
+/*get user page */
+router.get('/user',function (req,res,next) {
+    res.send('用户列表');
+});
+
+/*get category page */
+router.get('/category',function (req,res,next) {
+    res.send('分类列表');
+});
+
+/*get category add page */
+router.get('/category/add',function (req,res,next) {
+    res.send('分类添加');
+});
+
+/*get category edit page */
+router.get('/category/edit',function (req,res,next) {
+    res.send('分类修改');
+});
+
+/*get category delete page */
+router.get('/category/delete',function (req,res,next) {
+    res.send('分类删除');
+});
+
+/*get article page */
+router.get('/article',function (req,res,next) {
+    res.send('内容列表');
+});
+
+/*get article add page */
+router.get('/article/add',function (req,res,next) {
+    res.send('内容添加');
+});
+
+/*get article edit page */
+router.get('/article/edit',function (req,res,next) {
+    res.send('内容修改');
+});
+
+/*get article delete page */
+router.get('/article/delete',function (req,res,next) {
+    res.send('内容删除');
+});
+
+/*get article page */
+router.get('/article',function (req,res,next) {
+    res.send('内容列表');
+});
+
+/*get article page */
+router.get('/article',function (req,res,next) {
+    res.send('内容列表');
+});
+
+/*get comment page */
+router.get('/comment',function (req,res,next) {
+    res.send('评论列表');
+});
+
+/*get comment delete page */
+router.get('/comment/delete',function (req,res,next) {
+    res.send('评论删除');
+});
+
+module.exports=router;
+
+```
+
+4.接下来我们就跑一下这个程序，看看咱们的路由是不是按照图片上的运行。
 
 
 ```flow
