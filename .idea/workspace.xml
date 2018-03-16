@@ -3,210 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e593a34-69e3-43bc-84e4-3be91f281946" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/api_doc/api_data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/api_data.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/api_project.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/api_project.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/img/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/ca.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/de.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/es.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/fr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/it.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/locale.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/nl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/pl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/pt_br.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/ro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/ru.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/tr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/vi.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/zh.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/locales/zh_cn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/utils/handlebars_helper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/utils/send_sample_request.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/diff_match_patch.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/handlebars.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/list.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/lodash.custom.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/path-to-regexp/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/path-to-regexp/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/polyfill.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-Splus.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-aea.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-agc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-apollo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-basic.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-cbm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-cl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-clj.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-dart.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-el.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-erl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-erlang.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-fs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-go.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-hs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lasso.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lassoscript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-latex.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lgt.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lisp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-ll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-llvm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-logtalk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-ls.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lsp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-lua.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-matlab.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-ml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-mumps.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-n.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-nemerle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-pascal.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-proto.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-r.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-rd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-rkt.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-rust.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-s.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-scala.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-scm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-sql.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-ss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-swift.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-tcl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-tex.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-vb.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-vbs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-vhd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-vhdl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-wiki.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-xq.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-xquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-yaml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/lang-yml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/prettify.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/prettify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/prettify/run_prettify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/require.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/semver.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api_doc/vendor/webfontloader.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/api_data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/api_data.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/api_project.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/api_project.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/img/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/ca.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/de.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/es.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/fr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/it.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/locale.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/nl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/pl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/pt_br.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/ro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/ru.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/tr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/vi.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/zh.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/locales/zh_cn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/utils/handlebars_helper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/utils/send_sample_request.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/diff_match_patch.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/handlebars.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/list.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/lodash.custom.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/path-to-regexp/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/path-to-regexp/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/polyfill.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-Splus.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-aea.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-agc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-apollo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-basic.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-cbm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-cl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-clj.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-dart.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-el.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-erl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-erlang.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-fs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-go.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-hs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lasso.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lassoscript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-latex.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lgt.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lisp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-ll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-llvm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-logtalk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-ls.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lsp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-lua.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-matlab.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-ml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-mumps.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-n.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-nemerle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-pascal.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-proto.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-r.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-rd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-rkt.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-rust.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-s.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-scala.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-scm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-sql.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-ss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-swift.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-tcl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-tex.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-vb.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-vbs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-vhd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-vhdl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-wiki.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-xq.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-xquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-yaml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/lang-yml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/prettify.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/prettify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/prettify/run_prettify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/require.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/semver.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oauth_doc/vendor/webfontloader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -223,8 +20,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -234,6 +31,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -332,11 +141,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521165744128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1521165781923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521165781923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484000" />
+    <option name="totallyTimeSpent" value="585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -390,8 +206,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
