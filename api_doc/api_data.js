@@ -48,7 +48,7 @@ define({ "api": [
     "title": "查询换车计划详情",
     "group": "car_change_plan",
     "version": "0.0.1",
-    "description": "<p>用于用户查询换车计划详情,</p>",
+    "description": "<p>111111111111111111111,</p>",
     "header": {
       "examples": [
         {
@@ -66,7 +66,7 @@ define({ "api": [
             "type": "String",
             "optional": false,
             "field": "planid",
-            "description": "<p>换车计划id</p>"
+            "description": "<p>555555555555555</p>"
           },
           {
             "group": "Parameter",
@@ -80,7 +80,7 @@ define({ "api": [
             "type": "Boolean",
             "optional": false,
             "field": "appraiser",
-            "description": "<p>query参数</p>"
+            "description": "<p>645454545</p>"
           }
         ]
       },
